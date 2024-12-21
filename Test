@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trail 32K</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Trail 32K</h1>
+            <p>32 KM | 1200 M+ | Une aventure inoubliable</p>
+        </div>
+    </header>
+
+    <nav class="navbar">
+        <ul>
+            <li><a href="#presentation">Présentation</a></li>
+            <li><a href="#parcours">Parcours</a></li>
+            <li><a href="#inscription">Inscription</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="presentation" class="section">
+            <div class="container">
+                <h2>Présentation</h2>
+                <p>
+                    Rejoignez-nous pour cette aventure unique de 32 kilomètres avec 1200 mètres de dénivelé positif. Un défi sportif dans un cadre naturel exceptionnel.
+                </p>
+            </div>
+        </section>
+
+        <section id="parcours" class="section">
+            <div class="container">
+                <h2>Parcours</h2>
+                <p>Départ et arrivée au cœur de notre belle région, avec des vues imprenables et un tracé exigeant mais accessible aux passionnés.</p>
+                <img src="parcours.jpg" alt="Carte du parcours">
+            </div>
+        </section>
+
+        <section id="inscription" class="section inscription">
+            <div class="container">
+                <h2>Inscription</h2>
+                <p>Inscrivez-vous dès maintenant pour participer à cette expérience inoubliable.</p>
+                <a href="#" class="btn">Pré-inscription</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Trail 32K | Tous droits réservés</p>
+        </div>
+    </footer>
+</body>
+</html>
